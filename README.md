@@ -5,6 +5,14 @@ Cre: https://www.mathworks.com/matlabcentral/fileexchange/75175-simulation-of-a-
 ## Overview
 This project focuses on the modeling, analysis, and control of a 2-Degrees-of-Freedom (2-DoF) robot arm. The primary objectives include deriving the inverse kinematics for the robot arm, planning its trajectory using a third-order polynomial, and simulating the system using MATLAB/Simulink. The project also involves generating a trajectory to draw the sequence of characters "21ECE" using the robot arm.
 
+Here the result:
+
+![me](https://github.com/hminh1012/Inverse-kinematics-2DOF-Robot-arm/blob/0301ade019c8c24de5b090886abb6e1905abdad5/21ECE_dofRobot.gif)
+
+The trajectory of the robot arm
+
+![me](https://github.com/hminh1012/Inverse-kinematics-2DOF-Robot-arm/blob/0301ade019c8c24de5b090886abb6e1905abdad5/21ece.png)
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [2-DoF Robot Model](#2-dof-robot-model)
